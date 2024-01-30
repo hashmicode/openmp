@@ -1,7 +1,4 @@
-# Sequence Alignment Example 
-# Univie
-
-On Alma, compile with:
+compile with:
 /opt/global/gcc-11.2.0/bin/g++ -O2 -std=c++20 -fopenmp -o gpsa  main.cpp
 
 To Run: 
